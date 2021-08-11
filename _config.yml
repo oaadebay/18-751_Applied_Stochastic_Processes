@@ -1,7 +1,7 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Applied Stochastic Processes
+course_description: "Basic probability concepts : Probability space, simple and compound events, statistical independence, and Bayes Rule. Total Probability Concept; Bernoulli trials; Poisson Law. De Moivre-Laplace Theorem. Definition of a Random Variable (RV); Probability distribution of an RV: cumulative distribution function (CDF) and probability density function (PDF). Two Random Variables; several Random Variables. Functions of RV’s; conditional distributions; conditional expectations; joint distributions. Moments, generating functions, and characteristic functions of RVs. Chebyshev inequality. Estimation; linear estimation; minimum mean square estimation; and orthogonality principle. Limit theorems; Central Limit Theorem; Law of Large Numbers (both strong LLN and Weak LLN). Definition of a Random Process (RP). Different notions of stationarity. Poisson and Gaussian processes. Autocorrelation and Power Spectral Density (PSD) of an RP. Processing of random (stochastic) processes by linear systems. Ergodicity. Spectral analysis. Matched Filtering. Selected applications from telecommunications, data networking (queuing), Kalman filtering."
+course_semester: "Fall 2020"
 
 baseurl: "/18-751_Applied_Stochastic_Processes" # the subpath of your site, e.g. /blog/
 url: "http://oaadebay.github.io/" # the base hostname & protocol for your site
