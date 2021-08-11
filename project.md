@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Quizzes
+permalink: /Quizzes/
 ---
-Describe Final project.
+Find the Quizzes here.
