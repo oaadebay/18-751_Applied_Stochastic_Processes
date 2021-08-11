@@ -1,5 +1,5 @@
 ---
-type: quiz
+type: assignment
 date: 2020-08-11T4:00:00+4:30
 title: 'Quiz #1 - Sample Quiz 1'
 hide_from_announcments: false
